@@ -9,5 +9,4 @@
 
 
 ### Maintained By
-- Durgesh Kumar Singh
 - Vishu Kalier
